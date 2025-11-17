@@ -65,7 +65,7 @@ This project demonstrates the fundamentals of Chrome Extension development, incl
 
 **🧠 Technologies Used**
 
-1. HTML, CSS, JavaScript
+1. HTML, CSS and JavaScript
 
 2. Chrome Extension API
 
