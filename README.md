@@ -2,6 +2,12 @@
 
 A simple and effective Chrome extension to help you track your daily spending and manage your budget effortlessly.
 
+**👨‍💻 Author**
+
+Name: Rohit Gupta
+
+Project: Budget Manager – Manage Personal Finance Chrome Extension
+
 **📌 Overview**
 
 Budget Manager is a lightweight Chrome extension designed to help users track their expenses directly from their browser. With a clean popup interface, automatic storage, and optional notifications, this extension allows you to record, update, and manage your spending in one place.
